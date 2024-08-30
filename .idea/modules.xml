@@ -6,7 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/debugging/debugging.iml" filepath="$PROJECT_DIR$/debugging/debugging.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplo-escola/exemplo-escola.iml" filepath="$PROJECT_DIR$/exemplo-escola/exemplo-escola.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/java-terminal/java-terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo-Enum/poo-Enum.iml" filepath="$PROJECT_DIR$/poo-Enum/poo-Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema-cadastro/poo-Get-Set-Const.iml" filepath="$PROJECT_DIR$/sistema-cadastro/poo-Get-Set-Const.iml" />
     </modules>
   </component>
 </project>

@@ -1,6 +1,6 @@
 public class ExemploForArray {
     public static void main(String[] args) {
-        String alunos [] = { "FELIPE", "JONAS", "JULIA", "MARCOS"};
+        String[] alunos = { "FELIPE", "JONAS", "JULIA", "MARCOS"};
 
         /* utilização do método For padrão
         for (int x = 0; x< alunos.length; x++) {
