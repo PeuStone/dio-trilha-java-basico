@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/java-terminal/java-terminal.iml" />
       <module fileurl="file://$PROJECT_DIR$/poo-Enum/poo-Enum.iml" filepath="$PROJECT_DIR$/poo-Enum/poo-Enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/sistema-cadastro/poo-Get-Set-Const.iml" filepath="$PROJECT_DIR$/sistema-cadastro/poo-Get-Set-Const.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo-pilar/poo-pilar.iml" filepath="$PROJECT_DIR$/poo-pilar/poo-pilar.iml" />
     </modules>
   </component>
 </project>
