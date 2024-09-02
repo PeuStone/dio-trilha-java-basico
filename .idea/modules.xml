@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/poo-Enum/poo-Enum.iml" filepath="$PROJECT_DIR$/poo-Enum/poo-Enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/sistema-cadastro/poo-Get-Set-Const.iml" filepath="$PROJECT_DIR$/sistema-cadastro/poo-Get-Set-Const.iml" />
       <module fileurl="file://$PROJECT_DIR$/poo-encapsulamento/poo-encapsulamento.iml" filepath="$PROJECT_DIR$/poo-encapsulamento/poo-encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo-interface/poo-interface.iml" filepath="$PROJECT_DIR$/poo-interface/poo-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/poo-pilar/poo-pilar.iml" filepath="$PROJECT_DIR$/poo-pilar/poo-pilar.iml" />
     </modules>
   </component>
