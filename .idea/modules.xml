@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections-api-comparableXcomparator/collections-api-comparableXcomparator.iml" filepath="$PROJECT_DIR$/collections-api-comparableXcomparator/collections-api-comparableXcomparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-api-generics/collections-api-generics.iml" filepath="$PROJECT_DIR$/collections-api-generics/collections-api-generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections-api-list/collections-api-list.iml" filepath="$PROJECT_DIR$/collections-api-list/collections-api-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/debugging/debugging.iml" filepath="$PROJECT_DIR$/debugging/debugging.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
