@@ -22,11 +22,9 @@ public class ConsumerExample {
         // Usar consumer para imprimir números pares no Stream
 
         //numeros.stream().forEach(imprimirNumeroPar);
-
-        numeros.forEach(n -> {
-            if (n % 2 == 0) {
-                System.out.println(n);
-            }
-        });
+        numeros.stream()
+                .filter(n -> n % 2 == 0)
+                .forEach(System.out::println);
     }
 }
+
